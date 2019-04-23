@@ -6,12 +6,3 @@ F:\propertiva\Transactions\DataContracts\obj\Debug\netcoreapp2.1\DataContracts.A
 F:\propertiva\Transactions\DataContracts\obj\Debug\netcoreapp2.1\DataContracts.AssemblyInfo.cs
 F:\propertiva\Transactions\DataContracts\obj\Debug\netcoreapp2.1\DataContracts.dll
 F:\propertiva\Transactions\DataContracts\obj\Debug\netcoreapp2.1\DataContracts.pdb
-F:\Transactions\DataContracts\bin\Debug\netcoreapp2.1\DataContracts.deps.json
-F:\Transactions\DataContracts\bin\Debug\netcoreapp2.1\DataContracts.dll
-F:\Transactions\DataContracts\bin\Debug\netcoreapp2.1\DataContracts.pdb
-F:\Transactions\DataContracts\obj\Debug\netcoreapp2.1\DataContracts.csproj.CoreCompileInputs.cache
-F:\Transactions\DataContracts\obj\Debug\netcoreapp2.1\DataContracts.AssemblyInfoInputs.cache
-F:\Transactions\DataContracts\obj\Debug\netcoreapp2.1\DataContracts.AssemblyInfo.cs
-F:\Transactions\DataContracts\obj\Debug\netcoreapp2.1\DataContracts.dll
-F:\Transactions\DataContracts\obj\Debug\netcoreapp2.1\DataContracts.pdb
-F:\Transactions\DataContracts\obj\Debug\netcoreapp2.1\DataContracts.csprojAssemblyReference.cache

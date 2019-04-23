@@ -7,12 +7,3 @@ F:\propertiva\Transactions\Utility\obj\Debug\netcoreapp2.1\Utility.AssemblyInfo.
 F:\propertiva\Transactions\Utility\obj\Debug\netcoreapp2.1\Utility.dll
 F:\propertiva\Transactions\Utility\obj\Debug\netcoreapp2.1\Utility.pdb
 F:\propertiva\Transactions\Utility\obj\Debug\netcoreapp2.1\Utility.csprojAssemblyReference.cache
-F:\Transactions\Utility\bin\Debug\netcoreapp2.1\Utility.deps.json
-F:\Transactions\Utility\bin\Debug\netcoreapp2.1\Utility.dll
-F:\Transactions\Utility\bin\Debug\netcoreapp2.1\Utility.pdb
-F:\Transactions\Utility\obj\Debug\netcoreapp2.1\Utility.csproj.CoreCompileInputs.cache
-F:\Transactions\Utility\obj\Debug\netcoreapp2.1\Utility.AssemblyInfoInputs.cache
-F:\Transactions\Utility\obj\Debug\netcoreapp2.1\Utility.AssemblyInfo.cs
-F:\Transactions\Utility\obj\Debug\netcoreapp2.1\Utility.dll
-F:\Transactions\Utility\obj\Debug\netcoreapp2.1\Utility.pdb
-F:\Transactions\Utility\obj\Debug\netcoreapp2.1\Utility.csprojAssemblyReference.cache

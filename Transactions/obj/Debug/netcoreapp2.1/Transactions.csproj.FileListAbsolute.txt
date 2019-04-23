@@ -7,12 +7,3 @@ F:\propertiva\Transactions\Transactions\obj\Debug\netcoreapp2.1\Transactions.Ass
 F:\propertiva\Transactions\Transactions\obj\Debug\netcoreapp2.1\Transactions.dll
 F:\propertiva\Transactions\Transactions\obj\Debug\netcoreapp2.1\Transactions.pdb
 F:\propertiva\Transactions\Transactions\obj\Debug\netcoreapp2.1\Transactions.csprojAssemblyReference.cache
-F:\Transactions\Transactions\bin\Debug\netcoreapp2.1\Transactions.deps.json
-F:\Transactions\Transactions\bin\Debug\netcoreapp2.1\Transactions.dll
-F:\Transactions\Transactions\bin\Debug\netcoreapp2.1\Transactions.pdb
-F:\Transactions\Transactions\obj\Debug\netcoreapp2.1\Transactions.csproj.CoreCompileInputs.cache
-F:\Transactions\Transactions\obj\Debug\netcoreapp2.1\Transactions.AssemblyInfoInputs.cache
-F:\Transactions\Transactions\obj\Debug\netcoreapp2.1\Transactions.AssemblyInfo.cs
-F:\Transactions\Transactions\obj\Debug\netcoreapp2.1\Transactions.dll
-F:\Transactions\Transactions\obj\Debug\netcoreapp2.1\Transactions.pdb
-F:\Transactions\Transactions\obj\Debug\netcoreapp2.1\Transactions.csprojAssemblyReference.cache

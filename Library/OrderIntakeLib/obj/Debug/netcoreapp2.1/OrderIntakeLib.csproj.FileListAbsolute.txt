@@ -14,17 +14,3 @@ F:\propertiva\Transactions\Library\OrderIntakeLib\bin\Debug\netcoreapp2.1\DataCo
 F:\propertiva\Transactions\Library\OrderIntakeLib\bin\Debug\netcoreapp2.1\DataContracts.pdb
 F:\propertiva\Transactions\Library\OrderIntakeLib\bin\Debug\netcoreapp2.1\Repository.dll
 F:\propertiva\Transactions\Library\OrderIntakeLib\bin\Debug\netcoreapp2.1\Repository.pdb
-F:\Transactions\Library\OrderIntakeLib\bin\Debug\netcoreapp2.1\OrderIntakeLib.deps.json
-F:\Transactions\Library\OrderIntakeLib\bin\Debug\netcoreapp2.1\OrderIntakeLib.dll
-F:\Transactions\Library\OrderIntakeLib\bin\Debug\netcoreapp2.1\OrderIntakeLib.pdb
-F:\Transactions\Library\OrderIntakeLib\bin\Debug\netcoreapp2.1\DataContracts.dll
-F:\Transactions\Library\OrderIntakeLib\bin\Debug\netcoreapp2.1\Utility.dll
-F:\Transactions\Library\OrderIntakeLib\bin\Debug\netcoreapp2.1\DataContracts.pdb
-F:\Transactions\Library\OrderIntakeLib\bin\Debug\netcoreapp2.1\Utility.pdb
-F:\Transactions\Library\OrderIntakeLib\obj\Debug\netcoreapp2.1\OrderIntakeLib.csprojAssemblyReference.cache
-F:\Transactions\Library\OrderIntakeLib\obj\Debug\netcoreapp2.1\OrderIntakeLib.csproj.CoreCompileInputs.cache
-F:\Transactions\Library\OrderIntakeLib\obj\Debug\netcoreapp2.1\OrderIntakeLib.AssemblyInfoInputs.cache
-F:\Transactions\Library\OrderIntakeLib\obj\Debug\netcoreapp2.1\OrderIntakeLib.AssemblyInfo.cs
-F:\Transactions\Library\OrderIntakeLib\obj\Debug\netcoreapp2.1\OrderIntakeLib.csproj.CopyComplete
-F:\Transactions\Library\OrderIntakeLib\obj\Debug\netcoreapp2.1\OrderIntakeLib.dll
-F:\Transactions\Library\OrderIntakeLib\obj\Debug\netcoreapp2.1\OrderIntakeLib.pdb
